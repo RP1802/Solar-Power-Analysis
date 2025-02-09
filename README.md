@@ -73,7 +73,7 @@ Ensure the following CSV files are in the project directory:
 ## Deployment Information
 The application is deployed on **Streamlit Cloud** and can be accessed via the following link:
 
-🔗 **https://soloar-power-plant-analysis.streamlit.app/**
+🔗 **https://solar-power-analysis.streamlit.app/**
 
 ## Additional Notes
 - **Data Preprocessing**:
@@ -94,7 +94,7 @@ This documentation provides a **comprehensive guide** to understanding, running,
 For any **questions or feedback**, feel free to reach out! 🌞
 Contact
 
-📧 **Email**: [abhishekfbd02@gmail.com]
+📧 **Email**: [riteshpatil1802@gmail.com]
 
 🐙 GitHub: https://github.com/RP1802
 
